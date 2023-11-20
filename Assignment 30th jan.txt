@@ -1,0 +1,38 @@
+Assignment 30th jan
+
+Answer1
+In Java, you can create an object using the new keyword followed by a constructor.
+We have a class named MyClass with fields name and age, a constructor, and a method displayInfo.
+
+Answer2
+
+In Java, the new keyword is used to create an instance of a class, which is essentially creating an object. Here's the basic syntax:
+ClassName objectName = new ClassName();
+
+Answer3
+In Java, variables can be classified into several types based on their scope, data type, and usage. Here are some of the main types of variables in Java:
+Local Variables.
+Instance Variables (Non-Static Fields).
+
+Answer4
+
+Local Variables:
+
+Declared within a method, constructor, or block of code.
+Limited to the block or method in which they are declared.
+Not accessible outside the method, constructor, or block.
+Instance Variables:
+
+Declared within a class but outside any method, constructor, or block.
+Associated with an instance of the class (object).
+Accessible throughout the entire class and can be accessed using an object of the class.
+
+Answer5
+Instance Variables:
+Memory for instance variables is allocated on the heap.
+Local Variables:
+Memory for local variables is allocated on the stack.
+
+Answer6
+Method overloading is a feature in Java that allows a class to have multiple methods having the same name but with different parameters. In other words, two or more methods in the same class can have the same name, but they must differ in the type or number of their parameters.
+
